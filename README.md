@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brad-apld (Brad Knowles)
+- 👋 Hi, I’m @bknowles-apld (Brad Knowles)
 - 👀 I’m interested in: Learning more about how to apply Generative AI to DevOps, Systems Engineering, and the other work we do here at Applied Digital (APLD)
 - 🌱 I’m currently learning: Github Enterprise, Github CI/CD, and Github Runners
 - 💞️ I’m looking to collaborate on: Projects directly related to my employment
